@@ -1,0 +1,16 @@
+{
+  "id": "01_process",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "duration_seconds": 24.0,
+  "bytes": 21028807,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "full_decode": "passed",
+  "audio_levels": "mean_volume: -29.8 dB; max_volume: -18.5 dB",
+  "qa_frames": 60,
+  "qa_overview": 12
+}

@@ -1,0 +1,16 @@
+{
+  "id": "03_pause",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "duration_seconds": 12.736,
+  "bytes": 8786279,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "full_decode": "passed",
+  "audio_levels": "mean_volume: -18.0 dB; max_volume: -1.4 dB",
+  "qa_frames": 51,
+  "qa_overview": 12
+}
