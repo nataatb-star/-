@@ -2,15 +2,15 @@
   "id": "02_explainer",
   "video_codec": "h264",
   "audio_codec": "aac",
-  "duration_seconds": 11.904,
-  "bytes": 7862288,
+  "duration_seconds": 14.933333,
+  "bytes": 12490436,
   "resolution": [
     1080,
     1920
   ],
   "fps": 30,
   "full_decode": "passed",
-  "audio_levels": "mean_volume: -18.3 dB; max_volume: -1.4 dB",
-  "qa_frames": 48,
+  "audio_levels": "mean_volume: -17.7 dB; max_volume: -1.4 dB",
+  "qa_frames": 60,
   "qa_overview": 12
 }
